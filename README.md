@@ -1,3 +1,1 @@
-# CV
-## Rineyskiy Evgeniy
-#### 543765
+### https://Zhenya1194.github.io/rsschool-cv/cv
